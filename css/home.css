@@ -1,0 +1,35 @@
+body{
+    margin: 0;
+    padding: 0px;
+}
+#card{
+    padding: 50px;
+}
+
+#card_heading{
+    padding: 25px;
+}
+
+#body_bg{
+    width: 100%;
+}
+.container{
+    padding: 80px;
+}
+#caption{
+    background-image: url('/image/cover_stu.png');
+    width: 100%;
+}
+#caption_card{
+    display: flex;
+    justify-content: center;
+
+}
+#std_pic{
+    display: flex;
+    justify-content: center;
+}
+#footer{
+    padding: 20px;
+    border-radius: 0;
+}
